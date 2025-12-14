@@ -1,0 +1,11 @@
+Pythonを用いたサービス
+
+・Youtube
+=Open Search
+動画再生やアカウント管理
+
+・Instagram
+タイムライン表示など
+
+・Dropbox
+ファイル同期やアカウント管理
