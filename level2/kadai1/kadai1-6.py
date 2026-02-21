@@ -1,5 +1,7 @@
-"Hello" + "World"
-"Hello" - "World"
-"Hello" + 3
-"Hello" * 3
-1 == True、0 == False
+print("Hello" + "World")
+print("Hello" - "World")
+print("Hello" + 3)
+print("Hello" * 3)
+print(100 / 0)
+print(1 == True)
+print(0 == False)
