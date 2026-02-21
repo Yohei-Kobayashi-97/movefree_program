@@ -1,6 +1,6 @@
-correct_number = 77  # 正解の数字
+correct_number = 30  # 正解
 
-print("1から100までの数字を当ててください！")
+print("1から50までの数字を当ててください！")
 
 while True:
     user_input = int(input("数字を入力してください: "))
