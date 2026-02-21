@@ -6,4 +6,5 @@ fruits = {
 }
 
 for name, count in fruits.items():
-    print(f"{バナナ}の個数は{count}個です。")
+
+    print(f"{name}の個数は{count}個です。")
