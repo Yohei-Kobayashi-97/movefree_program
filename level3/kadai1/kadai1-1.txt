@@ -1,1 +1,27 @@
+# ぐるなびのrobots.txt内容
 
+## 対象サイト：ぐるなび
+URL：https://www.gnavi.co.jp/
+
+## robots.txtの内容
+
+すべてのクローラーに対して、一部ページのアクセスを禁止している
+
+User-agent:*
+→すべてのクローラーが対象となる
+
+Disallow: /admin/
+Disallow: /login/
+Disallow: /member/
+Disallow: /search/
+→指定されたディレクトリ以下へのアクセス禁止
+
+## 内部ページ
+/admin/
+
+## ログインページ
+/login/
+/member/
+
+## 検索ページ
+/search/
